@@ -36,7 +36,7 @@ This opens a Swing window where you can configure max users, IP, and port, then 
 ```bash
 java -cp build/classes live.chat.client.LiveChatClient
 ```
-Enter a username, server IP (default `localhost`), port (default `5200`), and click connect.
+Enter a username, server IP (`server_ip`), port (`port_number`), and click connect.
 
 ## Project structure
 
